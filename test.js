@@ -1,3 +1,6 @@
 #!/usr/bin/env smjs
-print( "Hello, world!" );
+
+// spidermonkey-bin
+
+print( "A real JavaScript script. How cool is that?" );
 
