@@ -1,5 +1,7 @@
 #!/usr/bin/env js
 
+// http://matt.might.net/articles/implementation-of-recursive-fixed-point-y-combinator-in-javascript-for-memoization/
+
 // A "functional" is just a function that takes
 // another function as input.  
 
